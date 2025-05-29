@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(254, 254, 2) !important;
+    margin: 0px;
+}
+
+.hello_world{
+    width: 100vw;
+    padding: 15px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+    color: #e92222;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
